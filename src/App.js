@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React, Production
+          Vou fazer algumas alterações nessa logo
         </a>
       </header>
     </div>
